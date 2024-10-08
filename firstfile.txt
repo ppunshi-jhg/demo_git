@@ -1,8 +1,3 @@
 "This is my updated first file"
 
-<<<<<<< HEAD
 "This is the line added on your local machine by yourself"
-=======
-"This is the new line added by your teammate"
->>>>>>> 38e8565b06a900ccf9f85aef83044c8e3c22029b
-
